@@ -44,9 +44,123 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - "\u51CC"
+      - 
+      - "\u5FAE\u7B11"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 1 boy laugh.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - 
+      - 
+      - "\u751F\u6C23"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 2 angry.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - 
+      - 
+      - "\u958B\u5FC3"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 3.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 4
+      debugIndex: 4
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 5
+      debugIndex: 5
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 6
+      debugIndex: 6
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 7
+      debugIndex: 7
+      strings:
+      - "\u828A\u828A"
+      - 
+      - "\u958B\u5FC3"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 1 laugh.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 8
+      debugIndex: 8
+      strings:
+      - 
+      - 
+      - "\u96E3\u904E"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 2 cry.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 9
+      debugIndex: 9
+      strings:
+      - 
+      - 
+      - "\u601D\u8003"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 3.think
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/61132172/Scenarios/61132172.xls:Character
     type: 1
-    textLength: 166
+    textLength: 239
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: 38d85892c23c6f449a9d511bf9ea07fd, type: 3}
   - rows:
